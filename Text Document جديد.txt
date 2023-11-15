@@ -1,0 +1,38 @@
+<header id="home">
+        <div class="navber">
+            <nav>
+                <a href="#home" id="logo">Yahaladesign</a>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#Contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div class="header-content">
+        <div class="content-text">
+            <p><span class="text-primary">HI There, I'm</span></p>
+            <h1>Yahaladesign</h1>
+            <p class="title">Web designer</p>
+            <div class="social">
+                <a href="https://www.instagram.com/accounts/emailsignup/" target="_blank">
+                    <i class="fa-brands fa-instagram"></i>
+                </a>
+                <a href="https://www.instagram.com/accounts/emailsignup/" target="_blank">
+                    <i class="fa-brands fa-twitter"></i>
+                </a><a href="https://m.facebook.com/people/%D9%8A%D8%A7%D9%87%D9%84%D8%A7-%D8%AF%D9%8A%D8%B2%D8%A7%D9%8A%D9%86/100092424774671/" target="_blank">
+                    <i class="fa-brands fa-facebook"></i>
+                </a><a href="https://api.whatsapp.com/send/?phone=966566655108&text&type=phone_number&app_absent=0" target="_blank">
+                    <i class="fa-solid fa-phone"></i>
+                </a><a href="https://www.tiktok.com/@yahaladesign?_t=8fuTXwo1wAM&_r=1" target="_blank">
+                    <i class="fa-brands fa-tiktok"></i>
+                
+            </div>
+            <a href="#about" class="btn-primary">About me <i class="fa-solid fa-circle-arrow-down"></i></a>
+        
+            </div>
+            <div src="aaa.jpg" alt="Yahaladesign">
+        </div>
+      
+    </header>
